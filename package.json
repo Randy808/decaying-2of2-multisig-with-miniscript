@@ -1,0 +1,20 @@
+{
+  "name": "simple-bitcoin-storefront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-rpc-2.0": "^1.5.1",
+    "node-fetch-commonjs": "^3.3.2",
+    "nodemon": "^3.1.4",
+    "npm": "^10.8.2",
+    "winston": "^3.14.2"
+  }
+}
